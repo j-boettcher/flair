@@ -1,3 +1,5 @@
+# This is the hotfix that fixes the whole application
+
 ![alt text](resources/docs/flair_logo_2020.png)
 
 [![PyPI version](https://badge.fury.io/py/flair.svg)](https://badge.fury.io/py/flair)
